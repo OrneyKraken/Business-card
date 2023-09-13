@@ -1,0 +1,18 @@
+body {
+    margin: 55px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.dp {
+    width: 130px;
+}
+.card {
+    width: 400px;
+    margin: 0px auto ;
+    background: #ddebf8;
+    border-bottom: 5px solid #d8cefe ;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: #2b2839;
+}
